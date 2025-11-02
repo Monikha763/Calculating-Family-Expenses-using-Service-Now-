@@ -1,7 +1,7 @@
-Here you will find the pdf files about the Project Design Phase consists of
+Here you will find the pdf files about the Requirement Analysis consists of
 
-1.Problem Solution Fit
+1.Solution Requirement
 
-2.Proposed Solution
+2.Data Flow Diagram
 
-3.Solution Architecture
+3.Technology Stack
